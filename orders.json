@@ -1,0 +1,78 @@
+[
+  {
+    "game": "ROV",
+    "package": "660 คูปอง",
+    "price": 187,
+    "game_id": "123456789",
+    "payment": "TrueMoney Wallet"
+  },
+  {
+    "game": "Valorant",
+    "package": "700 VP",
+    "price": 212,
+    "game_id": "kaq#123",
+    "payment": "Mobile Banking"
+  },
+  {
+    "game": "Valorant",
+    "package": "2400 VP",
+    "price": 680,
+    "game_id": "าายสยายาา#55",
+    "payment": "Mobile Banking"
+  },
+  {
+    "game": "FC Online (TH)",
+    "package": "2400 FC Points",
+    "quantity": 5,
+    "price": 3000,
+    "original_price": 3750,
+    "discounted_price": 3000,
+    "discount_label": "ใช้โปรลด 20%",
+    "game_id": "123456789",
+    "payment": "Mobile Banking"
+  },
+  {
+    "game": "Valorant",
+    "package": "2400 VP",
+    "quantity": 5,
+    "price": 3200,
+    "original_price": 4000,
+    "discounted_price": 3200,
+    "discount_label": "ใช้โปรลด 20%",
+    "game_id": "kdksfo#44",
+    "payment": "บัตรเครดิต / เดบิต"
+  },
+  {
+    "game": "ROV",
+    "package": "1500 คูปอง",
+    "quantity": 8,
+    "price": 3072,
+    "original_price": 3840,
+    "discounted_price": 3072,
+    "discount_label": "ใช้โปรลด 20%",
+    "game_id": "1233333333333",
+    "payment": "Mobile Banking"
+  },
+  {
+    "game": "ROV",
+    "package": "1500 คูปอง",
+    "quantity": 1,
+    "price": 408,
+    "original_price": 480,
+    "discounted_price": 408,
+    "discount_label": "ใช้โปรลด 15%",
+    "game_id": "123456789",
+    "payment": "Mobile Banking"
+  },
+  {
+    "game": "Free Fire",
+    "package": "1060 เพชร",
+    "quantity": 1,
+    "price": 320,
+    "original_price": 320,
+    "discounted_price": 320,
+    "discount_label": "ไม่ใช้ส่วนลด",
+    "game_id": "123456789",
+    "payment": "พร้อมเพย์ (QR PromptPay)"
+  }
+]
